@@ -2,7 +2,7 @@
 
 一个通过 svg 实现的最小 fcitx5 主题，风格为圆角，类 gnome 主题。
 
-![](https://hub.acovia.net/pictures/acovia-fcitx5-theme.png)
+![example](https://hub.acovia.net/pictures/acovia-fcitx5-theme.png)
 
 ## 安装
 
