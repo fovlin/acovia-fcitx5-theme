@@ -1,3 +1,0 @@
-#!/bin/bash
-mkair -p ~/.local/share/fcitx5/themes/
-cp -r ./* ~/.local/share/fcitx5/themes/

@@ -1,3 +1,3 @@
 #!/bin/bash
-mkair -p ~/.local/share/fcitx5/themes/
+mkdir -p ~/.local/share/fcitx5/themes/
 cp -r ./* ~/.local/share/fcitx5/themes/
