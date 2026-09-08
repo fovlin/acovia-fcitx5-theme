@@ -1,5 +1,7 @@
 # acovia-fcitx5-theme
 
+![example](
+
 A minimal Fcitx5 theme implemented via SVG, featuring a rounded, GNOME-like style.
 
 ## Installation
